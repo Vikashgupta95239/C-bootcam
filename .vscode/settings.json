@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "write_a_recursive_function_to_print_first_n_evan_natural_numbers_in_reverse_order_order": "cpp",
+        "iostream": "cpp",
+        "Q7.C": "cpp",
+        "typeinfo": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
